@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_Facebook</string>
+    <string name="sing_up_for_facebook">Sing up for facebook</string>
+    <string name="forgot_passw_ord">Forgot password?</string>
+    <string name="enter_uername">Enter Uername</string>
+    <string name="password">PassWord</string>
+    <string name="log_in">Log in</string>
+</resources>
